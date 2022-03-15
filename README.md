@@ -2,4 +2,4 @@
 
 #### 介绍
 
-Third Commit
+##### This project implement a simple OpenCV demo. It loads a picture and displays it on screen. 
