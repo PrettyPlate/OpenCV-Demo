@@ -1,0 +1,5 @@
+/home/yxwang/Project/OpenCV Demo/build/CMakeFiles/rebuild_cache.dir
+/home/yxwang/Project/OpenCV Demo/build/CMakeFiles/edit_cache.dir
+/home/yxwang/Project/OpenCV Demo/build/src/CMakeFiles/rebuild_cache.dir
+/home/yxwang/Project/OpenCV Demo/build/src/CMakeFiles/OPENCVDEMO.dir
+/home/yxwang/Project/OpenCV Demo/build/src/CMakeFiles/edit_cache.dir
